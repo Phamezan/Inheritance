@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pham2\\source\\repos\\UnderstandingInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B250F44-E5B2-4CBB-B3EB-83347D54E5A1}|UnderstandingInheritance\\UnderstandingInheritance.csproj|c:\\users\\pham2\\source\\repos\\understandinginheritance\\understandinginheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B250F44-E5B2-4CBB-B3EB-83347D54E5A1}|UnderstandingInheritance\\UnderstandingInheritance.csproj|solutionrelative:understandinginheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\UnderstandingInheritance\\UnderstandingInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "UnderstandingInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\UnderstandingInheritance\\UnderstandingInheritance\\Program.cs",
+              "RelativeToolTip": "UnderstandingInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:23:21.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
